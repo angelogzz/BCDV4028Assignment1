@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@truffle/artifactor": "^4.0.199",
+    "truffle-artifactor": "^4.0.30",
+    "web3": "^0.20.7"
+  }
+}
